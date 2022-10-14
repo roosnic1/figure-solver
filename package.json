@@ -10,7 +10,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jsdom": "^20.0.0",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "axios": "^1.1.2",
+    "chalk": "^4.1.2",
+    "got": "^12.5.2",
+    "jsdom": "^20.0.1"
   }
 }
